@@ -10,7 +10,7 @@ I'm a passionate Software Developer with experience in building web and mobile a
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/marek-bukoski-36779130a/](https://www.linkedin.com/in/gerson-stuva/)
+- **LinkedIn**: [linkedin.com/in/gerson-stuva/](https://www.linkedin.com/in/gerson-stuva/)
 - **Gmail**: gerson.stuva.secret@gmail.com
 
 ## ✨ Fun Fact
