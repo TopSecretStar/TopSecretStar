@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Marek!
+# 👋 Hi, I'm Gerson Stuva!
 
 I'm a passionate Software Developer with experience in building web and mobile applications and APIs. I love crafting high-quality, scalable solutions and continuously learning about new technologies.
 
