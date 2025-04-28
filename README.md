@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Gerson Stuva!
+# 👋 Hi, I'm Gerson Cordova!
 
 I'm a passionate Software Developer with experience in building web and mobile applications and APIs. I love crafting high-quality, scalable solutions and continuously learning about new technologies.
 
@@ -10,7 +10,7 @@ I'm a passionate Software Developer with experience in building web and mobile a
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/gerson-stuva/](https://www.linkedin.com/in/gerson-stuva/)
+- **LinkedIn**: [linkedin.com/in/gerson-stuva/](https://www.linkedin.com/in/gerson-cordova/)
 - **Gmail**: gerson.stuva.secret@gmail.com
 
 ## ✨ Fun Fact
