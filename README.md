@@ -10,8 +10,9 @@ I'm a passionate Software Developer with experience in building web and mobile a
 
 ## 🌐 Connect with Me
 
-- **LinkedIn**: [linkedin.com/in/gerson-stuva/](https://www.linkedin.com/in/gerson-cordova/)
-- **Gmail**: gerson.stuva.secret@gmail.com
+- **LinkedIn**: [linkedin.com/in/gerson-cordova/](https://www.linkedin.com/in/gerson-cordova/)
+- **Gmail**: gerson.gold112@gmail.com
+- **Number**: (505) 514-0004
 
 ## ✨ Fun Fact
 
