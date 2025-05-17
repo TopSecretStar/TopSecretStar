@@ -12,7 +12,7 @@ I'm a passionate Software Developer with experience in building web and mobile a
 
 - **LinkedIn**: [linkedin.com/in/gerson-cordova/](https://www.linkedin.com/in/gerson-cordova/)
 - **Gmail**: gerson.gold112@gmail.com
-- **Number**: (505) 514-0004
+- **Number**: ‪(214) 702-2235‬
 
 ## ✨ Fun Fact
 
